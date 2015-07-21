@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1405591891 source:c:\users\kunal\desktop\next greater number of same set of digits\main.cpp
+	<iostream>
+	<cstring>
+	<queue>
+	<algorithm>
+

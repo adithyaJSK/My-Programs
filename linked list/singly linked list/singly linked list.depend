@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1402990758 source:c:\users\kunal\desktop\singly linked list\main.cpp
+	<iostream>
+	<cstdio>
+	<conio.h>
+
+1403417025 source:c:\users\kunal\desktop\program\linked list\singly linked list\main.cpp
+	<iostream>
+	<cstdio>
+	<conio.h>
+

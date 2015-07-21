@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1403024275 source:c:\users\kunal\desktop\reversing the link list\main.cpp
+	<iostream>
+	<cstdio>
+	<conio.h>
+
+1403417490 source:c:\users\kunal\desktop\program\linked list\reversing the link list\main.cpp
+	<iostream>
+	<cstdio>
+	<conio.h>
+

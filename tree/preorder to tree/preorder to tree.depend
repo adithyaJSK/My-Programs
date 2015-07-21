@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1403257128 source:c:\users\kunal\desktop\program\tree\preorder to tree\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<queue>
+

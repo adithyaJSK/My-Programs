@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1403267142 source:c:\users\kunal\desktop\program\tree\tree using pre in order\tree using preorder\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+
