@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403724196 source:c:\users\kunal\desktop\program\sorting\quick sort\main.cpp
+	<cstdio>
+	<iostream>
+

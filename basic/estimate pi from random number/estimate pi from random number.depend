@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1405945736 source:c:\users\kunal\desktop\program\basic\estimate pi from random number\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+

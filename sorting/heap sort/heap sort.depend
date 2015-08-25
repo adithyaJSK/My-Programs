@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1402827686 source:c:\users\kunal\desktop\heap sort\main.cpp
+	<cstdio>
+	<iostream>
+
+1402828105 source:c:\users\kunal\desktop\program\sorting\heap sort\main.cpp
+	<cstdio>
+	<iostream>
+

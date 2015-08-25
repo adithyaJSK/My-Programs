@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403276660 source:c:\users\kunal\desktop\program\tree\kth postion from node\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1404307151 source:c:\users\kunal\desktop\program\linked list\palindrome check in linklist (on)\main.cpp
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<stack>
+

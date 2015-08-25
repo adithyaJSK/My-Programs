@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1403123470 source:c:\users\kunal\desktop\inorderpostorder traversal\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<queue.h>
+	<vector>
+	<stack>
+
+1403170727 source:c:\users\kunal\desktop\program\tree\inorderpostorder traversal\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<queue.h>
+	<vector>
+	<stack>
+
+1405621653 source:c:\users\kunal\desktop\program\tree\tree traversal\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<queue>
+	<vector>
+	<stack>
+

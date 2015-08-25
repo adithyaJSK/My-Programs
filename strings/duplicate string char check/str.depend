@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1404239154 source:c:\users\kunal\desktop\str\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<strings.h>
+
